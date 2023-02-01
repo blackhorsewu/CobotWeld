@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/victor/cobo_weld/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/victor/cobo_weld/src/coboviz/include/**",
+        "/home/victor/cobo_weld/src/Universal_Robots_ROS_Driver/controller_stopper/include/**",
+        "/home/victor/cobo_weld/src/realsense-ros/realsense2_camera/include/**",
+        "/home/victor/cobo_weld/src/Universal_Robots_ROS_Driver/ur_calibration/include/**",
+        "/home/victor/cobo_weld/src/fmauch_universal_robot/ur_kinematics/include/**",
+        "/home/victor/cobo_weld/src/Universal_Robots_ROS_Driver/ur_robot_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
